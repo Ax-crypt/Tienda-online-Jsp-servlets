@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="Examen_T2_Guevara_More_Alex">
-        <wb-resource deploy-path="/" source-path="/webapp" tag="defaultRootSource"/>
-        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
-        <property name="context-root" value="Examen_T2_Guevara_More_Alex"/>
-        <property name="java-output-path" value="/Examen_T2_Guevara_More_Alex/build/classes"/>
-    </wb-module>
-</project-modules>
